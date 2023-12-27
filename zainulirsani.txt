@@ -1,3 +1,4 @@
 nama : Muhammmad Zainul Irsani
 NIM  : 21101114
 matkul  : Cloud Computing
+jenis kelamin : Laki-laki
